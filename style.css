@@ -4,6 +4,7 @@ body{
 *{
   
     box-sizing: border-box;
+    
 }
 .mainhead{
     text-align: center;
@@ -35,13 +36,14 @@ body{
 p {
 
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  width: 90%;
+  width: 100%;
   height: auto;
-  padding: 20px;
-  margin: 40px 2px 2px 2px;
+  padding: 10px;
+  margin: 50px 2px 2px 2px;
   text-align: justify;
   color:white;
   font-weight: bold;
+  overflow: none;
   
  
 }
